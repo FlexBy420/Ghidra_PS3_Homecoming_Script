@@ -1,4 +1,5 @@
 # ImportDebugSymbolsScript.py
+# Use before any analysis!
 
 from ghidra.program.model.address import Address
 from ghidra.program.model.symbol import SourceType
